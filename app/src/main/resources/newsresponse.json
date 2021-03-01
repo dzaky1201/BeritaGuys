@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "David Aaro",
+      "title": "Massive iceberg-- larger than New York City-- breaks off in Antarctica - Fox News",
+      "description": "A massive iceberg, larger than New York City, recently broke off from an ice shelf in Antarctica, according to researchers on Friday.",
+      "url": "https://www.foxnews.com/science/massive-iceberg-larger-than-new-york-city-breaks-off-in-antarctic",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/ICEBERG-NYC-BAS.jpg",
+      "publishedAt": "2021-03-01T05:31:59Z",
+      "content": "A massive iceberg, larger than New York City, has broken off from an ice shelf in Antarctica, according to researchers on Friday. \r\nThe 490-square mile iceberg broke away from the Brunt Ice Shelf abo… [+2594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Jen Trolio, Alissa Wilkinson",
+      "title": "Golden Globes winners 2021: The full list - Vox.com",
+      "description": "The Crown, The Queen’s Gambit, and Schitt’s Creek led the TV categories; Nomadland, Borat Subsequent Moviefilm, and Soul were the most decorated films.",
+      "url": "https://www.vox.com/culture/22306072/golden-globes-winners-2021-full-list-crown-queens-gambit-schitts-creek",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/u0T9pMt2e25XTLtLb8KnrQ8LjPo=/710x0:4263x1860/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22336022/1304639587.jpg",
+      "publishedAt": "2021-03-01T04:45:46Z",
+      "content": "The winners of the 2021 Golden Globes were crowned on Sunday night, in a bicoastal and bizarrely produced ceremony hosted by Tina Fey and Amy Poehler.\r\nThere were awkward Zoom moments aplenty. There … [+6804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Linda Qiu",
+      "title": "Trump Revives Familiar Falsehoods in CPAC Speech - The New York Times",
+      "description": "The former president attacked his successor and continued to claim that he won the 2020 election.",
+      "url": "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-fact-check.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/02/28/us/28dc-factcheck-trump/28dc-factcheck-trump-facebookJumbo.jpg",
+      "publishedAt": "2021-03-01T04:21:38Z",
+      "content": "what Mr. Trump said\r\nHe has effectively ordered a shutdown of ICE, halting virtually all deportations. Everyone, murderers, everybody.\r\nFalse. The Biden administration ordered a 100-day pause on depo… [+1536 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Sarah Bahr",
+      "title": "Chadwick Boseman wins best actor Golden Globe and his widow accepts in an emotional speech. - The New York Times",
+      "description": "It was the final role — and first win — for the late star of “Ma Rainey’s Black Bottom,” who died in August from colon cancer at age 43.",
+      "url": "https://www.nytimes.com/2021/02/28/movies/chadwick-boseman-golden-globes.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/02/28/business/28golden-globes-blog-chadwick-boseman/28golden-globes-blog-chadwick-boseman-facebookJumbo.jpg",
+      "publishedAt": "2021-03-01T03:56:00Z",
+      "content": "The drama tells the story of Rainey, a pioneering blues singer of the title played by Viola Davis (who was nominated for best actress in a movie drama), and her battle to protect her gift her voice f… [+1138 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Marc Berman",
+      "title": "Julius Randle carries Knicks to significant win over Pistons - New York Post ",
+      "description": "Julius Randle became an All-Star last week. He became a winner Sunday in Detroit. After six previous seasons being part of losing teams, Randle has spearheaded the Knicks to a winning record — achi…",
+      "url": "https://nypost.com/2021/02/28/julius-randle-carries-knicks-to-significant-win-over-pistons/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/02/Julius-Randle-celebrates-during-the-Knicks-win-on-Sunday..jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-03-01T03:43:00Z",
+      "content": "Julius Randle became an All-Star last week. He became a winner Sunday in Detroit.\r\nAfter six previous seasons being part of losing teams, Randle has spearheaded the Knicks to a winning record achieve… [+3795 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Reuters",
+      "title": "AstraZeneca Plc sells 7.7% stake in Moderna Inc for more than $1B - Fox Business",
+      "description": "AstraZeneca Plc has sold its 7.7% stake in Moderna Inc for more than $1 billion after the U.S. biotechnology company’s shares soared on the back of its coronavirus vaccine breakthrough, The Times reported.",
+      "url": "https://www.foxbusiness.com/healthcare/astrazeneca-plc-sells-7-7-stake-in-moderna-inc-for-more-than-1b",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/AP21043520909507.jpg?ve=1&tl=1",
+      "publishedAt": "2021-03-01T03:18:54Z",
+      "content": "AstraZeneca Plc has sold its 7.7% stake in Moderna Inc for more than $1 billion after the U.S. biotechnology company’s shares soared on the back of its coronavirus vaccine breakthrough, The Times rep… [+1224 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Bradford Betz",
+      "title": "Jim Acosta won't address Cuomo sexual harassment claims - Fox News",
+      "description": "CNN reporter Jim Acosta on Sunday appeared unwilling to address sexual harassment claims against New York Gov. Andrew Cuomo when asked by The Federalist’s Davis Marcus to comment on them.",
+      "url": "https://www.foxnews.com/media/jim-acosta-wont-address-cuomo-sexual-harassment-claims",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21057746328106.jpg",
+      "publishedAt": "2021-03-01T03:11:55Z",
+      "content": "CNN reporter Jim Acosta on Friday appeared unwilling to address sexual harassment claims against New York Gov. Andrew Cuomo when asked by The Federalists Davis Marcus to comment on them.\r\nIt comes as… [+3387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Cynthia Littleton",
+      "title": "Jason Sudeikis Talks About His Tie-Dyed Hoodie, Don Cheadle’s Wrap-It-Up Gesture - Variety",
+      "description": "Jason Sudeikis explained the origin of his tie-dyed hoodie and offered his reaction to fellow nominee Don Cheadle’s gesture during the “Ted Lasso” star’s acceptance speech after Sudeikis won for lead actor in a TV musical or comedy series. Sudeikis’ pastel-co…",
+      "url": "https://variety.com/2021/tv/news/jason-sudeikis-don-cheadle-hoodie-tie-dye-forward-space-1234917796/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2021/02/jason-sudeikis.jpg?w=960",
+      "publishedAt": "2021-03-01T03:11:00Z",
+      "content": "Jason Sudeikis explained the origin of his tie-dyed hoodie and offered his reaction to fellow nominee Don Cheadle’s gesture during the “Ted Lasso” star’s acceptance speech after Sudeikis won for lead… [+1499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Tariq Malik",
+      "title": "SpaceX aborts launch of Falcon 9 rocket carrying Starlink satellites - Space.com",
+      "description": "The auto abort occurred just over a minute before liftoff.",
+      "url": "https://www.space.com/spaceX-starlink-17-launch-abort",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FXsfXJaqX7ffQeqUxUXJSU-1200-80.jpg",
+      "publishedAt": "2021-03-01T03:04:46Z",
+      "content": "A veteran SpaceX rocket suffered a launch abort just minutes before liftoff Sunday night (Feb. 28) while attempting to launch a new fleet of the company's Starlink internet satellites. \r\nThe Falcon 9… [+2734 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Christina Zhao",
+      "title": "Biden Open to Giving Fewer People Stimulus Checks as 'Weeks' of Delays Loom - Newsweek",
+      "description": "The House of Representatives passed the sprawling relief legislation on Friday, advancing it to the Senate where Republicans are expected to offer several amendments to the bill.",
+      "url": "https://www.newsweek.com/biden-open-giving-fewer-people-stimulus-checks-weeks-delays-loom-1572686",
+      "urlToImage": "https://d.newsweek.com/en/full/1744858/joe-biden-white-house.jpg",
+      "publishedAt": "2021-03-01T02:40:38Z",
+      "content": "White House Press Secretary Jen Psaki on Sunday said that President Joe Biden is still open to lowering the income threshold for the $1,400 stimulus checks in his $1.9 trillion relief package. She al… [+3373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "LYNN ELBER",
+      "title": "Prince Harry: Split from royal life 'unbelievably tough' - Yahoo News",
+      "description": "Prince Harry says the process of separating from royal life has been very difficult for him and his wife, Meghan.  In an interview with Oprah Winfrey, Harry ...",
+      "url": "https://news.yahoo.com/prince-harry-split-royal-life-015058305.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vvpGsh1T3FtWFTPwAV5Xhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xNDIz/https://s.yimg.com/uu/api/res/1.2/Zowh4hS9Bgz5oOlmUgmbqA--~B/aD0yMTM0O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/b1643cd6265802be55d8e816c2fd9c34",
+      "publishedAt": "2021-03-01T01:57:32Z",
+      "content": "LOS ANGELES (AP) Prince Harry says the process of separating from royal life has been very difficult for him and his wife, Meghan.\r\nIn an interview with Oprah Winfrey, Harry invoked the memory of his… [+2715 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "",
+      "title": "47 Democracy Activists Charged Under Hong Kong 'Subversion' Law - NPR",
+      "description": "Authorities charged 47 people with violating a Chinese law aimed at suppressing dissent. The pro-democracy activists, arrested in early January, face life in prison.",
+      "url": "https://www.npr.org/2021/02/28/972341741/hong-kong-democracy-advocates-charged-under-national-security-law",
+      "urlToImage": "https://media.npr.org/assets/img/2021/02/28/gettyimages-1231427651_wide-30347b45750bcfa8690f785504ea6a341a6cb883.jpg?s=1400",
+      "publishedAt": "2021-03-01T01:39:58Z",
+      "content": "Mike Lam King-nam, who participated in the 2020 pro-democracy primary elections, gives a hug to his wife ahead of reporting to police on Sunday in Hong Kong.\r\nAnthony Kwan/Getty Images\r\nThe Hong Kong… [+2496 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Tiger Woods expresses appreciation as golfers don signature Sunday outfits to pay tribute after car crash - CBS Sports",
+      "description": "These were awesome tributes to the best to ever do it on Sunday",
+      "url": "https://www.cbssports.com/golf/news/tiger-woods-expresses-appreciation-as-golfers-don-signature-sunday-outfits-to-pay-tribute-after-car-crash/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/02/28/0278f6de-a1b8-4913-9bf8-7220424a0f69/thumbnail/1200x675/5cbe3f19cc074caec7a2d31b705192c8/finau.jpg",
+      "publishedAt": "2021-03-01T01:32:00Z",
+      "content": "This week has been among the stranger golf weeks in the last few years. Tiger Woods was badly injured in a career-threatening car crash on Tuesday, and has undergone multiple procedures in the days t… [+2253 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "John Bowden",
+      "title": "Pompeo: Release of Khashoggi report by Biden admin 'reckless' | TheHill - The Hill",
+      "description": "Former Secretary of State Mike Pompeo decried the Biden administration's release of a declassifie...",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/540912-pompeo-release-of-khashoggi-report-by-biden-admin-reckless",
+      "urlToImage": "https://thehill.com/sites/default/files/pompeomike_092120getty_pompeo-state.jpg",
+      "publishedAt": "2021-03-01T00:56:10Z",
+      "content": "Former Secretary of State Mike PompeoMike PompeoUS intel: Saudi crown prince approved Khashoggi killingGolden statue of Trump at CPAC ridiculed onlineFive things to watch at CPACMORE decried the Bide… [+2230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "The Athletic Staff",
+      "title": "CBS Sports commentator, former NFL player Irv Cross dies at 81 - The Athletic",
+      "description": "Irv Cross was hired by CBS Sports in 1971 and became a staple on \"The NFL Today\" for 14 years, spending a total of 23 years with the network.",
+      "url": "https://theathletic.com/news/cbs-sports-commentator-former-nfl-player-irv-cross-dies-at-81/UatT1bhY3GEL",
+      "urlToImage": "https://cdn-media.theathletic.com/UatT1bhY3GEL_iIZe8D1OEDHb_1440x960.jpg",
+      "publishedAt": "2021-03-01T00:47:51Z",
+      "content": "CBS Sports analyst and commentator and former NFL player Irv Cross passed away at the age of 81, CBS Sports announced Sunday. \r\n\"Irv was a pioneer who made significant contributions to the storied hi… [+1008 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Daniel Politi",
+      "title": "Virginia Becomes First Southern State to Pass Legislation to Legalize Marijuana - Slate",
+      "description": "The bill would legalize recreational marijuana in 2024.",
+      "url": "https://slate.com/news-and-politics/2021/02/virginia-first-southern-legislation-legalize-marijuana.html",
+      "urlToImage": "https://compote.slate.com/images/574b3a82-a33c-4295-98f6-920c457447d7.jpeg?width=780&height=520&rect=2984x1989&offset=0x0",
+      "publishedAt": "2021-03-01T00:03:00Z",
+      "content": "Virginia lawmakers approved a bill on Saturday that will legalize recreational marijuana in 2024. The compromise bill that delays retail sales of the drug for three years turns Virginia into the firs… [+2395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSAT San Antonio"
+      },
+      "author": "Jakob Rodriguez",
+      "title": "Alamodome to open 10,000 COVID-19 vaccine appointments on Sunday - KSAT San Antonio",
+      "description": "The San Antonio Metropolitan Health District will open 10,000 vaccine appointments on Sunday at the Alamodome vaccine location, officials announced.",
+      "url": "https://www.ksat.com/news/local/2021/02/28/alamodome-to-open-10000-covid-19-vaccine-appointments-on-sunday/",
+      "urlToImage": "https://www.ksat.com/resizer/EeXQqhXzbxhQ4F_87fTowmZ_K64=/640x360/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/H5EAWFSSBJE4NMVUW2WH27DJHU.jpg",
+      "publishedAt": "2021-02-28T23:43:32Z",
+      "content": "SAN ANTONIO The San Antonio Metropolitan Health District will open 10,000 vaccine appointments on Sunday at the Alamodome vaccine location, officials announced.\r\nMetro Health is working with state an… [+1172 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Jorge Fitz-Gibbon",
+      "title": "Trump slams Equality Act, calls for protection of women's sports - New York Post ",
+      "description": "Former President Donald Trump slammed the Equality Act during comments Sunday at Florida’s Conservative Political Action Conference, saying it will destroy women’s athletics by allowing…",
+      "url": "https://nypost.com/2021/02/28/trump-slams-equality-act-calls-to-protect-womens-sports/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/02/USA-TRUMP__14.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-02-28T23:37:00Z",
+      "content": "Former President Donald Trump slammed the Equality Act during comments Sunday at Florida’s Conservative Political Action Conference, saying it will destroy women’s athletics by allowing transgender a… [+2133 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Eustance Huang",
+      "title": "Japan's Nikkei 225 jumps 2%; data show China factory activity growth slowed in February - CNBC",
+      "description": "Both the official as well the Caixin/Markit manufacturing Purchasing Managers' Index showed manufacturing activity growth slowing in February.",
+      "url": "https://www.cnbc.com/2021/03/01/asia-markets-china-economy-south-korea-markets-closed-currencies-oil.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106788828-1604964906278-gettyimages-1229336423-JAPAN_TRADING.jpeg?v=1614554781",
+      "publishedAt": "2021-02-28T23:35:00Z",
+      "content": "SINGAPORE Stocks in Asia-Pacific traded higher on Monday, as data releases showed China's manufacturing activity growth slowing in February.\r\nIn Japan, the Nikkei 225 rose 2.18%, as the index attempt… [+2576 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Bill Hutchinson",
+      "title": "Connecticut ambulance employee arrested in string of Molotov cocktail attacks: Police - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/US/connecticut-ambulance-employee-arrested-string-molotov-cocktail-attacks/story?id=76166961",
+      "urlToImage": "https://s.abcnews.com/images/US/ambulance-stock-gty-jef-210228_1614542361263_hpMain_16x9_992.jpg",
+      "publishedAt": "2021-02-28T23:26:37Z",
+      "content": "A Connecticut ambulance company employee was arrested and charged in a string of Molotov cocktail attacks across the state that targeted two emergency medical services agencies, a volunteer fire depa… [+2534 chars]"
+    }
+  ]
+}
